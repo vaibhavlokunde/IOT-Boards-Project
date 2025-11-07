@@ -1,4 +1,6 @@
 # ♻️ Smart Dustbin using IoT and Machine Learning
+##Contributor
+Vaibhav Lokunde(22BCT0270),Gyanvi Agarwal(22BCT0380),Satvik Khurana(22BCT0088),Shambhavi Thakur(22BCT0332),Rajni Patel(22BCT0197),Dilshad Sukheswala(22BCT0021)
 
 ## 🚀 Overview
 The **Smart Dustbin** project integrates **IoT sensors**, **cloud monitoring**, and a **Machine Learning model (ResNet50)** to create an intelligent waste management system.  
