@@ -100,23 +100,7 @@ Both ESP32 and Arduino circuits simulated using Wokwi for testing before deploym
 
 Useful for verifying wiring, sensor readings, and LCD output.
 
-🔌 Circuit Connections
-ESP32 + DHT22 + Blynk
-Pin	Connection
-DHT22 VCC	3.3V
-DHT22 GND	GND
-DHT22 DATA	GPIO 15
-ESP32 Wi-Fi	Blynk cloud connection
-Arduino + LCD + ThingSpeak
-Pin	Connection
-LCD RS	D12
-LCD EN	D11
-LCD D4	D5
-LCD D5	D4
-LCD D6	D3
-LCD D7	D2
-DHT22 DATA	D8
-Wi-Fi Module (ESP8266)	Tx/Rx connected to Arduino
+
 🧰 Software & Tools
 
 Python (TensorFlow/Keras) – for ML model development
