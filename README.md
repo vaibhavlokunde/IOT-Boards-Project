@@ -1,5 +1,6 @@
 # ♻️ Smart Dustbin using IoT and Machine Learning
-##Contributor
+
+## Contributor
 Vaibhav Lokunde(22BCT0270),Gyanvi Agarwal(22BCT0380),Satvik Khurana(22BCT0088),Shambhavi Thakur(22BCT0332),Rajni Patel(22BCT0197),Dilshad Sukheswala(22BCT0021)
 
 ## 🚀 Overview
